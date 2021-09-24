@@ -40,10 +40,6 @@ void draw() {
       
     }
   }
-  
-  System.out.println("startX: " + startX); //variable check
-  System.out.println("startY: " + startY);
-  System.out.println("endX: " + endX);
-  System.out.println("endY: " + endY);
+
 }
   
